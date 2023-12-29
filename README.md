@@ -8,4 +8,4 @@
 
 ### 更新readme
 
-now the version is dev-1.2
+now the version is dev-1.2-> dev3-1
