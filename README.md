@@ -7,3 +7,5 @@
 ### 某某某的github首页
 
 ### 更新readme
+
+now the version is 1
